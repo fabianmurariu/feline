@@ -1,5 +1,5 @@
 (defproject org.clojars.fabuime/feline "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
+  :description "Two functions fmap and nmap can transform nested collections or maps"
   :url "https://github.com/fabianmurariu/feline"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
