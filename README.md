@@ -1,3 +1,5 @@
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.fabuime/feline.svg)](https://clojars.org/org.clojars.fabuime/feline)
+
 # feline
 clojure functional helpers starting with basic functor able to map over nested structures
 
